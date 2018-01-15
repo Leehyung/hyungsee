@@ -27,12 +27,11 @@ title: Hyungsee
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  여행, 무작정 걷기, 그리고 레고를 좋아하는 개발자
+  여행, 무작정 걷기, 그리고 레고를 좋아하는 개발자.
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  여행, 무작정 걷기, 그리고 레고를 좋아하는 개발자.
 
 # A list of keywords for your blog.
 keywords: [hyungsee]
